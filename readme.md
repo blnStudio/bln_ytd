@@ -1,0 +1,1 @@
+An example project for our tutorial https://redm.munafio.com/blog/how-to-stream-custom-textures-redm-fivem-codex
